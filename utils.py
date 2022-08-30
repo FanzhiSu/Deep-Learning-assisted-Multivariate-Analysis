@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jul 20 11:17:26 2022
-
-@author: Clark
-
-"""
 import random
 
 import cv2
